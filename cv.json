@@ -7,7 +7,7 @@
     "phone": "+63 992-726-1187",
     "url": "https://johndevss.dev",
     "summary": "Junior Backend Developer with a passion for building web applications. Currently seeking opportunities to further develop my skills in a professional setting.",
-    "theme": "default",
+    "theme": "blue",
     "location": {
       "address": "37 Int. Katipunan St. Bayan-bayanan",
       "postalCode": "1470",
@@ -33,7 +33,7 @@
       "name": "OpenAI",
       "position": "Senior Web Developer",
       "location_type": "On site",
-      "location": "Auckland, New Zealand",
+      "location": "California, United States",
       "url": "https://techstartup.com",
       "startDate": "2024-01-01",
       "endDate": null,
@@ -85,12 +85,12 @@
   ],
   "volunteer": [
     {
-      "organization": "Local Coding Club",
+      "organization": "Shutter Bugs Society",
       "position": "Volunteer",
-      "url": "https://codingclub.com/",
-      "startDate": "2021-01-01",
-      "endDate": "2022-01-01",
-      "summary": "Helped organize coding workshops and mentored new members.",
+      "url": "https://facebook.com/shutterbugssociety",
+      "startDate": "2022",
+      "endDate": "2026",
+      "summary": "Took pictures during events at school.",
       "highlights": ["Awarded 'Volunteer of the Month'"]
     }
   ],
@@ -248,12 +248,12 @@
   "interests": [
     {
       "name": "Technology",
-      "keywords": ["AI", "Blockchain"]
+      "keywords": ["AI", "Web Development", "Programming"]
     }
   ],
   "references": [
     {
-      "name": "Jane Smith",
+      "name": "John Ryan del Rosario",
       "reference": "Reference…"
     }
   ],
@@ -267,7 +267,7 @@
         "Interactive user interface for students and teachers"
       ],
       "url": "https://signmaster.site",
-      "github": ""
+      "github": null
     }
   ]
 }
