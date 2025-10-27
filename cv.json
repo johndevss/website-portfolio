@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "John Emmanuel Calderon",
-    "label": "Junior Backend Developer",
+    "label": "Senior Backend Developer",
     "image": "/me_avatar.jpg",
     "email": "john.emmanuelcruz23@gmail.com",
     "phone": "+63 992-726-1187",
@@ -19,7 +19,7 @@
       {
         "network": "LinkedIn",
         "username": "john-emmanuel-calderon",
-        "url": "https://www.linkedin.com/in/john-emmanuel-calderon-a26526281/"
+        "url": "https://www.linkedin.com/in/johndevss"
       },
       {
         "network": "GitHub",
@@ -34,7 +34,7 @@
       "position": "Senior Web Developer",
       "location_type": "On site",
       "location": "California, United States",
-      "url": "https://techstartup.com",
+      "url": "https://openai.com/",
       "startDate": "2024-01-01",
       "endDate": null,
       "summary": "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs.",
@@ -52,9 +52,9 @@
     {
       "name": "PhilSA",
       "position": "Junior Software Developer",
-      "location_type": "Hybrid",
-      "location": "Wellington, New Zealand",
-      "url": "https://innovativesolutions.com",
+      "location_type": "Remote",
+      "location": "Quezon City, Philippines",
+      "url": "https://philsa.gov.ph/",
       "startDate": "2022-06-01",
       "endDate": "2023-06-01",
       "summary": "Assisting in the development and maintenance of software applications using Python and Django. Collaborating with cross-functional teams to ensure quality and timely delivery of software solutions.",
@@ -137,100 +137,127 @@
   ],
   "certificates": [
     {
-      "name": "Associate SQL Developer",
-      "date": "2023-05-01",
+      "name": "Java Fundamentals",
+      "date": "2023-06-24",
+      "issuer": "Oracle Academy",
+      "url": null
+    },
+    {
+      "name": "Systems Administration",
+      "date": "2023-06-24",
+      "issuer": "STI College | Linux Professional Institute",
+      "url": null
+    },
+    {
+      "name": "Introduction to S/4HANA using Global Bike",
+      "date": "2023-06",
+      "issuer": "SAP University Alliances",
+      "url": null
+    },
+    {
+      "name": "Intermediate SQL",
+      "date": "2024-04-29",
       "issuer": "DataCamp",
-      "url": "https://onlineuniversity.com/certificates/fullstack"
+      "url": null
     }
   ],
   "skills": [
-    {
-      "name": "Figma",
-      "level": "Beginner",
-      "keywords": ["Design", "UI"]
-    },
-    {
-      "name": "HTML",
-      "level": "Intermediate",
-      "keywords": ["Web Development", "Frontend"]
-    },
-    {
-      "name": "CSS",
-      "level": "Intermediate",
-      "keywords": ["Web Development", "Frontend", "Responsive Design"]
-    },
-    {
-      "name": "JavaScript",
-      "level": "Intermediate",
-      "keywords": ["Web Development", "Frontend", "Backend", "Fullstack"]
-    },
-    {
-      "name": "Tailwind",
-      "level": "Beginner",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "CSS Framework",
-        "Responsive Design"
-      ]
-    },
-    {
-      "name": "TypeScript",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "JavaScript Superset"
-      ]
-    },
-    {
-      "name": "Node",
-      "level": "Beginner",
-      "keywords": ["Web Development", "Backend", "JavaScript", "Server"]
-    },
-    {
-      "name": "NoSQL",
-      "level": "Intermediate",
-      "keywords": ["Databases", "NoSQL", "Data Storage", "Backend"]
-    },
-    {
-      "name": "MySQL",
-      "level": "Intermediate",
-      "keywords": ["Databases", "MySQL", "Data Storage", "Backend"]
-    },
-    {
-      "name": "Git",
-      "level": "Intermediate",
-      "keywords": ["Version Control", "Collaboration", "Source Code"]
-    },
-    {
-      "name": "GitHub",
-      "level": "Intermediate",
-      "keywords": ["Version Control", "Collaboration", "Source Code", "Git"]
-    },
-    {
-      "name": "Next.js",
-      "level": "Beginner",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "React Framework",
-        "SSR",
-        "Static Generation"
-      ]
-    },
-    {
-      "name": "React",
-      "level": "Intermediate",
-      "keywords": ["Web Development", "Frontend", "JavaScript Library", "UI"]
-    },
-    {
-      "name": "Python",
-      "level": "Intermediate",
-      "keywords": ["Machine Learning", "Data Science", "AI", "Backend"]
-    }
-  ],
+  {
+    "category": "Frontend Development",
+    "skills": [
+      {
+        "name": "HTML",
+        "level": "Intermediate",
+        "keywords": ["Web Development", "Frontend"]
+      },
+      {
+        "name": "CSS",
+        "level": "Intermediate",
+        "keywords": ["Web Development", "Frontend", "Responsive Design"]
+      },
+      {
+        "name": "JavaScript",
+        "level": "Intermediate",
+        "keywords": ["Web Development", "Frontend", "Backend", "Fullstack"]
+      },
+      {
+        "name": "TypeScript",
+        "level": "Intermediate",
+        "keywords": ["Web Development", "Frontend", "Backend", "JavaScript Superset"]
+      },
+      {
+        "name": "React",
+        "level": "Intermediate",
+        "keywords": ["Web Development", "Frontend", "JavaScript Library", "UI"]
+      },
+      {
+        "name": "Next.js",
+        "level": "Beginner",
+        "keywords": ["Web Development", "Frontend", "React Framework", "SSR", "Static Generation"]
+      },
+      {
+        "name": "Tailwind",
+        "level": "Beginner",
+        "keywords": ["Web Development", "Frontend", "CSS Framework", "Responsive Design"]
+      }
+    ]
+  },
+  {
+    "category": "Backend Development",
+    "skills": [
+      {
+        "name": "Node",
+        "level": "Beginner",
+        "keywords": ["Web Development", "Backend", "JavaScript", "Server"]
+      },
+      {
+        "name": "Python",
+        "level": "Intermediate",
+        "keywords": ["Machine Learning", "Data Science", "AI", "Backend"]
+      }
+    ]
+  },
+  {
+    "category": "Databases",
+    "skills": [
+      {
+        "name": "MySQL",
+        "level": "Intermediate",
+        "keywords": ["Databases", "MySQL", "Data Storage", "Backend"]
+      },
+      {
+        "name": "NoSQL",
+        "level": "Intermediate",
+        "keywords": ["Databases", "NoSQL", "Data Storage", "Backend"]
+      }
+    ]
+  },
+  {
+    "category": "Version Control",
+    "skills": [
+      {
+        "name": "Git",
+        "level": "Intermediate",
+        "keywords": ["Version Control", "Collaboration", "Source Code"]
+      },
+      {
+        "name": "GitHub",
+        "level": "Intermediate",
+        "keywords": ["Version Control", "Collaboration", "Source Code", "Git"]
+      }
+    ]
+  },
+  {
+    "category": "Design & Tools",
+    "skills": [
+      {
+        "name": "Figma",
+        "level": "Beginner",
+        "keywords": ["Design", "UI"]
+      }
+    ]
+  }
+],
   "languages": [
     {
       "language": "Filipino",
