@@ -6,7 +6,7 @@
     "email": "john.emmanuelcruz23@gmail.com",
     "phone": "+63 992-726-1187",
     "url": "https://johndevss.dev",
-    "summary": "Junior Backend Developer with a passion for building web applications. Currently seeking opportunities to further develop my skills in a professional setting.",
+    "summary": "Senior Backend Developer with a passion for building web applications. Currently seeking opportunities to further develop my skills in a professional setting.",
     "theme": "blue",
     "location": {
       "address": "37 Int. Katipunan St. Bayan-bayanan",
@@ -76,6 +76,7 @@
       "position": "Intern Web Developer",
       "location_type": "Remote",
       "location": "Sydney, Australia",
+      "url": "https://google.com/",
       "startDate": "2022-06-01",
       "endDate": "2022-12-01",
       "summary": "Assisted in developing client websites and applications. Gained hands-on experience with front-end and back-end technologies.",
@@ -137,15 +138,9 @@
   ],
   "certificates": [
     {
-      "name": "Java Fundamentals",
-      "date": "2023-06-24",
-      "issuer": "Oracle Academy",
-      "url": null
-    },
-    {
-      "name": "Systems Administration",
-      "date": "2023-06-24",
-      "issuer": "STI College | Linux Professional Institute",
+      "name": "Intermediate SQL",
+      "date": "2024-04-29",
+      "issuer": "DataCamp",
       "url": null
     },
     {
@@ -155,9 +150,15 @@
       "url": null
     },
     {
-      "name": "Intermediate SQL",
-      "date": "2024-04-29",
-      "issuer": "DataCamp",
+      "name": "Systems Administration",
+      "date": "2023-06-24",
+      "issuer": "STI College | Linux Professional Institute",
+      "url": null
+    },
+    {
+      "name": "Java Fundamentals",
+      "date": "2023-06-24",
+      "issuer": "Oracle Academy",
       "url": null
     }
   ],
@@ -181,19 +182,9 @@
         "keywords": ["Web Development", "Frontend", "Backend", "Fullstack"]
       },
       {
-        "name": "TypeScript",
-        "level": "Intermediate",
-        "keywords": ["Web Development", "Frontend", "Backend", "JavaScript Superset"]
-      },
-      {
         "name": "React",
         "level": "Intermediate",
         "keywords": ["Web Development", "Frontend", "JavaScript Library", "UI"]
-      },
-      {
-        "name": "Next.js",
-        "level": "Beginner",
-        "keywords": ["Web Development", "Frontend", "React Framework", "SSR", "Static Generation"]
       },
       {
         "name": "Tailwind",
@@ -212,6 +203,16 @@
       },
       {
         "name": "Python",
+        "level": "Intermediate",
+        "keywords": ["Machine Learning", "Data Science", "AI", "Backend"]
+      },
+      {
+        "name": "Java",
+        "level": "Intermediate",
+        "keywords": ["Machine Learning", "Data Science", "AI", "Backend"]
+      },
+      {
+        "name": "C#",
         "level": "Intermediate",
         "keywords": ["Machine Learning", "Data Science", "AI", "Backend"]
       }
@@ -294,6 +295,17 @@
         "Interactive user interface for students and teachers"
       ],
       "url": "https://signmaster.site",
+      "github": null
+    },
+    {
+      "name": "ParkHub: A Parking Management System with Plate Recognition for STI College Caloocan",
+      "isActive": true,
+      "description": "A comprehensive parking management system that employs license plate recognition technology to streamline parking operations and enhance security.",
+      "highlights": [
+        "Utilizes machine learning for real-time license plate recognition",
+        "User-friendly interface for parking management"
+      ],
+      "url": null,
       "github": null
     }
   ]
